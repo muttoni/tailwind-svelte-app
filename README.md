@@ -1,6 +1,6 @@
-# Svelte + Tailwind
+# Tailwind + Svelte = ❤
 
-A barebones, ready-to-go template for building with Svelte and Tailwind CSS.
+`tailwind-svelte-app` is a barebones, ready-to-go template for building with Svelte and Tailwind CSS.
 Uses Vite and Rollup for the build and HMR process.
 
 ## Instructions
